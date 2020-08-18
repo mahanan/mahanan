@@ -1,6 +1,6 @@
 ### Stephen Mangai's GitHub Profile👋
 
-Welcome to my public profile! This includes examples of [Certificates of completion](https://www.Learnenough.com/certificates/3020d6dd)
+[Certificates of completion](https://www.Learnenough.com/certificates/3020d6dd)
 <a href="https://www.learnenough.com/certificates/3020d6dd"><img src="https://www.learnenough.com/certificates/3020d6dd/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/3020d6dd"><img src="https://www.learnenough.com/certificates/3020d6dd/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/3020d6dd"><img src="https://www.learnenough.com/certificates/3020d6dd/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/3020d6dd"><img src="https://www.learnenough.com/certificates/3020d6dd/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a>
 
 Those badges show that I have completed the online courses for [Learn Enough Command Line To Be Dangerous](https://www.learnenough.com/command-line) and [Learn Enough Text Editor To Be Dangerous](https://www.learnenough.com/text-editor) and [Learn Enough Git To Be Dangerous](https://www.learnenough.com/git) and [Learn Enough HTML To Be Dangerous](https://www.learnenough.com/html)
